@@ -14,7 +14,7 @@ const Navbar = () => {
     return (
         <>
             <div className="navs">
-                <div className="w-full h-[12vh] flex justify-center items-center bg-primary border-b-2 border-gray-300 ">
+                <div className="w-full h-[12vh] flex justify-center items-center bg-primary border-b-5 ">
                     {/* <div className="barnd_Menus w-[90%] h-full flex items-center justify-center">
          <div className="brandName w-[20%] px-8">
                 <h1 className='text-3xl'>𝓘𝓽'𝓼 𝓶𝓮...<br/>
@@ -31,7 +31,7 @@ const Navbar = () => {
 
         </div> */}
 
-                    <div className="w-[95%] h-full bg- flex items-center  justify-between p-3">
+                    <div className="w-[95%] h-full  flex items-center  justify-between p-3">
                         <div className="brandName txt-primary ">
                             <h1 className='text-2xl'>𝓘𝓽'𝓼 𝓶𝓮...<br />
                                 <span className='px-12 italic'>𝓙𝓸𝓱𝓷...!</span> </h1>

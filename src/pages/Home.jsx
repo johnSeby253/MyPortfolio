@@ -1,13 +1,12 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 
-
 const Home = () => {
   return (
     <>
 
       <Navbar />
-      <div className="w-full h-full flex flex-col justify-center items-center bg-  ">
+      <div className="w-full h-full flex flex-col justify-center items-center bg-primary  ">
         {/* <div className="content w-full h-screen    flex justify-around ">
           <div className="homeTxt flex items-center justify-center w-[60%] h-full">
             <div className="w-[85%] h-full ">
